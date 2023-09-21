@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://github.com/NirmalHNanera">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Nirmal+Nanera;.Net +Developer+%7C+B.Tech+Student+%7C+Passionate;Data+Structure+%7C+Algorithm+%7C+Python" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Nirmal+Nanera;Full Stack +Developer+%7C+B.Tech+Student+%7C+Passionate;Data+Structure+%7C+Algorithm+%7C+Python" alt="Typing SVG" />
 </a>
 <br>
     <br>

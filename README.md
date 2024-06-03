@@ -94,7 +94,9 @@
     <td align="center" style="padding: 10px; border: 3px solid #FF5733; border-radius: 10px;">
       <img src="https://leetcard.jacoblin.cool/nirmal-nanera?theme=dark&font=Karma&ext=activity" alt="nirmal-nanera LeetCode Stats" width="400" />
     </td>
-    
+    <td align="center" style="padding: 10px; border: 3px solid #33FF57; border-radius: 10px;">
+      <img src="https://leetcard.jacoblin.cool/nirmal-nanera?theme=dark&font=Karma&ext=heatmap" alt="nirmal-nanera Recent Activity" width="400" />
+    </td>
   </tr>
 </table>
 

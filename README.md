@@ -7,6 +7,7 @@
 <br>
 <br>
 <h3 align="center">GitHub Stats:</h3>
+
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
     <div style="flex-basis: calc(50% - 10px);">
         <a href="https://github.com/NirmalHNanera">
@@ -22,12 +23,10 @@
         <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nirmalhnanera&theme=dark" alt="nirmalhnanera" style="max-width: 100%;" />
     </div>
 
- <div style="flex-basis: calc(50% - 10px);">
+<div style="flex-basis: calc(50% - 10px);">
         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nirmalhnanera&show_icons=true&locale=en&layout=compact&theme=dark" alt="nirmalhnanera" style="max-width: 100%;" />
     </div>
 </div>
-
-
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=nirmalhnanera&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />

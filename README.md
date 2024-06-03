@@ -92,10 +92,12 @@
 <table align="center" style="border-collapse: collapse; margin: 20px auto;">
   <tr>
     <td align="center" style="padding: 10px; border: 3px solid #FF5733; border-radius: 10px;">
-      <img src="https://leetcard.jacoblin.cool/nirmal-nanera?theme=dark&font=Karma" alt="nirmal-nanera LeetCode Stats" width="400" />
+      <!-- Replace with actual image URL for total solved problems -->
+      <img src="https://dummyimage.com/400x200/22272e/37BCF6&text=Total+Solved+Problems:+Easy:+X,+Medium:+Y,+Hard:+Z" alt="Total Solved Problems" width="400" />
     </td>
     <td align="center" style="padding: 10px; border: 3px solid #33FF57; border-radius: 10px;">
-      <img src="https://leetcard.jacoblin.cool/nirmal-nanera?theme=dark&font=Karma&ext=heatmap" alt="nirmal-nanera Recent Activity" width="400" />
+      <!-- Replace with actual image URL for recent activity and heatmap -->
+      <img src="https://leetcard.jacoblin.cool/nirmal-nanera?theme=dark&font=Karma&ext=activity&ext=heatmap" alt="Recent Activity and Heatmap" width="400" />
     </td>
   </tr>
 </table>

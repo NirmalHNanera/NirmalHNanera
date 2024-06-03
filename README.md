@@ -6,6 +6,7 @@
 </p>
 <br>
 <br>
+<h3 align="center">GitHub Stats:</h3>
 <a href="https://github.com/NirmalHNanera">
     <img src="https://github-stats-alpha.vercel.app/api?username=NirmalHNanera&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
 </a>
@@ -17,6 +18,10 @@
 
 <p align="center">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nirmalhnanera&theme=dark" alt="nirmalhnanera" />
+</p>
+
+<p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nirmalhnanera&show_icons=true&locale=en&layout=compact&theme=dark" alt="nirmalhnanera" />
 </p>
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=nirmalhnanera&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -117,11 +122,3 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
     </a>
 </p>
-
-
-<h3 align="center">GitHub Stats:</h3>
-<p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nirmalhnanera&show_icons=true&locale=en&layout=compact&theme=dark" alt="nirmalhnanera" />
-</p>
-
-

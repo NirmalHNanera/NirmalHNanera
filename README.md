@@ -13,16 +13,15 @@
             <img src="https://github-stats-alpha.vercel.app/api?username=NirmalHNanera&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
         </a>
     </div>
-
-    <div style="flex-basis: 50%;">
+<div style="flex-basis: 50%;">
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=nirmalhnanera&show_icons=true&locale=en&theme=dark" alt="nirmalhnanera" />
     </div>
 
-    <div style="flex-basis: 50%;">
+<div style="flex-basis: 50%;">
         <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nirmalhnanera&theme=dark" alt="nirmalhnanera" />
     </div>
 
-    <div style="flex-basis: 50%;">
+<div style="flex-basis: 50%;">
         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nirmalhnanera&show_icons=true&locale=en&layout=compact&theme=dark" alt="nirmalhnanera" />
     </div>
 </div>

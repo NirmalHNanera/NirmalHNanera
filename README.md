@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nirmal Nanera</h1>
-<h3 align="center">: Full Stack | .NET | DBMS | AI/ML Enthusiast | Data Structures Expert</h3>
 <a align="center" href="https://github.com/NirmalHNanera">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Nirmal+Nanera;Versatile Developer+%7CFull Stack+Developer+%7C+B.Tech+Student+%7C+Passionate;Data+Structure+%7C+DBMS+%7C+Python%7C+AI/ML Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Nirmal+Nanera;lines=Versatile Developer;+%7CFull Stack+Developer+%7C+B.Tech+Student+%7C+Passionate;Data+Structure+%7C+DBMS+%7C+Python%7C+AI/ML Enthusiast" alt="Typing SVG" />
 </a>
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=nirmalhnanera&label=Profile%20views&color=0e75b6&style=flat" alt="nirmalhnanera" />

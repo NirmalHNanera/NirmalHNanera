@@ -4,7 +4,8 @@
     <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=100&lines=Nirmal+Nanera;Versatile+Developer;Full+Stack+Developer+%7C+B.Tech+Student+%7C+Passionate;Data+Structure+%7C+DBMS+%7C+Python+%7C+AI/ML+Enthusiast" alt="Typing SVG" />
 </a>
 </p>
-### GitHub Stats:
+<h3 align="center" style="color: #37BCF6; font-family: Georgia, 'Times New Roman', Times, serif;">GitHub Stats:</h3>
+
 
 <table align="center">
   <tr>

@@ -95,11 +95,8 @@
   <tr>
     <td align="center" style="padding: 10px; border: 3px solid #33FF57; border-radius: 10px;">
       <!-- Replace with actual image URL for heatmap -->
-      <img src="https://leetcard.jacoblin.cool/nirmal-nanera?theme=dark&font=Karma&ext=heatmap" alt="Recent Activity Heatmap" width="400" />
-   <td align="center" style="padding: 10px; border: 3px solid #33FF57; border-radius: 10px;">
-      <!-- Replace with actual image URL for contest graph -->
-      <img src="https://leetcard.jacoblin.cool/nirmal-nanera/contest_graph?theme=dark&font=Karma" alt="Contest Graph" width="400" />
-    </td>
+      <img src="https://leetcard.jacoblin.cool/nirmal-nanera?theme=dark&font=Karma&ext=heatmap&ext=activity" alt="Recent Activity Heatmap" width="400" />
+   
   </tr>
   
 </table>

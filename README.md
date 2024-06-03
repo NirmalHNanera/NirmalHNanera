@@ -8,25 +8,23 @@
 <br>
 <h3 align="center">GitHub Stats:</h3>
 <div style="display: flex; justify-content: center;">
-    <div style="display: flex; flex-wrap: wrap; justify-content: center; max-width: 100%; gap: 20px;">
-        <div>
+    <div style="display: flex; flex-wrap: wrap; max-width: 100%; gap: 20px;">
+        <div style="flex-basis: calc(50% - 10px);">
             <a href="https://github.com/NirmalHNanera">
                 <img src="https://github-stats-alpha.vercel.app/api?username=NirmalHNanera&cc=22272e&tc=37BCF6&ic=fff&bc=0000" style="max-width: 100%;">
             </a>
         </div>
 
-<div>
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-                <div>
-                    <img src="https://github-readme-stats.vercel.app/api?username=nirmalhnanera&show_icons=true&locale=en&theme=dark" alt="nirmalhnanera" style="max-width: 100%;" />
-                </div>
-                <div>
-                    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nirmalhnanera&show_icons=true&locale=en&layout=compact&theme=dark" alt="nirmalhnanera" style="max-width: 100%;" />
-                </div>
-                <div>
-                    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nirmalhnanera&theme=dark" alt="nirmalhnanera" style="max-width: 100%;" />
-                </div>
-            </div>
+<div style="flex-basis: calc(50% - 10px);">
+            <img src="https://github-readme-stats.vercel.app/api?username=nirmalhnanera&show_icons=true&locale=en&theme=dark" alt="nirmalhnanera" style="max-width: 100%;" />
+        </div>
+
+<div style="flex-basis: calc(50% - 10px);">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nirmalhnanera&show_icons=true&locale=en&layout=compact&theme=dark" alt="nirmalhnanera" style="width: 100%;" />
+        </div>
+
+<div style="flex-basis: calc(50% - 10px);">
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=nirmalhnanera&theme=dark" alt="nirmalhnanera" style="width: 100%;" />
         </div>
     </div>
 </div>

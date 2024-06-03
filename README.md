@@ -39,7 +39,7 @@ Hello! I am Nanera Nirmal, a Computer Science Student.<br><br>Learning ASP .Net,
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=NirmalHNanera&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Nirmal-Nanera&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
 ![borderseparator](https://github.com/Ctoic/Ctoic/assets/90936436/b0885c98-6e49-4365-93f1-fd2fcaed194c)
 

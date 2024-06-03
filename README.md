@@ -16,15 +16,15 @@
         </div>
 
 <div style="flex-basis: calc(50% - 10px);">
-            <img src="https://github-readme-stats.vercel.app/api?username=nirmalhnanera&show_icons=true&locale=en&theme=dark" alt="nirmalhnanera" style="max-width: 100%;" />
+            <img align="center" src="https://github-readme-stats.vercel.app/api?username=nirmalhnanera&show_icons=true&locale=en&theme=dark" alt="nirmalhnanera" style="max-width: 100%;" />
         </div>
 
 <div style="flex-basis: calc(50% - 10px);">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nirmalhnanera&show_icons=true&locale=en&layout=compact&theme=dark" alt="nirmalhnanera" style="width: 100%;" />
+            <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nirmalhnanera&theme=dark" alt="nirmalhnanera" style="max-width: 100%;" />
         </div>
 
 <div style="flex-basis: calc(50% - 10px);">
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=nirmalhnanera&theme=dark" alt="nirmalhnanera" style="width: 100%;" />
+            <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nirmalhnanera&show_icons=true&locale=en&layout=compact&theme=dark" alt="nirmalhnanera" style="max-width: 100%;" />
         </div>
     </div>
 </div>

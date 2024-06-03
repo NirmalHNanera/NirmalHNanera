@@ -16,29 +16,25 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-    <a href="https://linkedin.com/in/nirmalnanera" target="_blank">
-        <img align="center" src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="LinkedIn" />
+    <a href="https://linkedin.com/in/nirmalnanera" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nirmal nanera" height="30" width="40" />
     </a>
-    <a href="https://www.hackerrank.com/nirmalhnanera27" target="_blank">
-        <img align="center" src="https://img.shields.io/badge/HackerRank-Follow-green" alt="HackerRank" />
+    <a href="https://www.hackerrank.com/nirmalhnanera27" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nirmalhnanera27" height="30" width="40" />
     </a>
-    <a href="https://www.leetcode.com/nirmal-nanera" target="_blank">
-        <img align="center" src="https://img.shields.io/badge/LeetCode-Compete-orange" alt="LeetCode" />
+    <a href="https://www.leetcode.com/nirmal-nanera" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nirmal-nanera" height="30" width="40" />
     </a>
 </p>
 
 <p align="center">
-    <img src="https://img.shields.io/github/followers/nirmalhnanera?label=GitHub%20Followers&style=social" alt="GitHub Followers" />
-</p>
-
-<h3 align="center">GitHub Stats:</h3>
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=nirmalhnanera&show_icons=true&theme=dark" alt="GitHub Stats" />
+    <img src="https://img.shields.io/github/followers/nirmalhnanera?label=GitHub%20Followers&style=for-the-badge" alt="GitHub Followers" />
+    <img src="https://img.shields.io/badge/dynamic/json?color=blue&label=LinkedIn%20Connections&query=%24.data.connections&url=https%3A%2F%2Fapi.linkedin.com%2Fv2%2Fme&style=for-the-badge" alt="LinkedIn Connections" />
 </p>
 
 <h3 align="center">LeetCode Stats:</h3>
 <p align="center">
-    <img src="https://leetcard.jacoblin.cool/NirmalHNanera?theme=dark&animation=true" alt="LeetCode Stats" />
+    <img src="https://leetcard.jacoblin.cool/nirmal-nanera?theme=dark&font=Karma&ext=activity" alt="nirmal-nanera LeetCode Stats" />
 </p>
 
 <h3 align="center">Languages and Tools:</h3>

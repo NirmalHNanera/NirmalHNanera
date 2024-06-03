@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nirmal Nanera</h1>
 <h3 align="center">Versatile Developer: Full Stack | .NET | DBMS | AI/ML Enthusiast | Data Structures Expert</h3>
-<a href="https://github.com/NirmalHNanera">
+<a align="center" href="https://github.com/NirmalHNanera">
     <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Nirmal+Nanera;Full Stack+Developer+%7C+B.Tech+Student+%7C+Passionate;Data+Structure+%7C+DBMS+%7C+Python%7C+AI/ML Enthusiast" alt="Typing SVG" />
 </a>
 <p align="center">

@@ -4,7 +4,20 @@
     <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=100&lines=Nirmal+Nanera;Versatile+Developer;Full+Stack+Developer+%7C+B.Tech+Student+%7C+Passionate;Data+Structure+%7C+DBMS+%7C+Python+%7C+AI/ML+Enthusiast" alt="Typing SVG" />
 </a>
 </p>
-<h3 align="center" style="color: #37BCF6; font-family: Georgia, 'Times New Roman', Times, serif;">GitHub Stats:</h3>
+<h3 align="center" style="color: #37BCF6; font-family: Georgia, 'Times New Roman', Times, serif;">
+  ✨ <span style="color: #FF5733;">G</span>
+  <span style="color: #33FF57;">i</span>
+  <span style="color: #3357FF;">t</span>
+  <span style="color: #FF33A6;">H</span>
+  <span style="color: #FF5733;">u</span>
+  <span style="color: #33FF57;">b</span>
+  <span style="color: #3357FF;"> </span>
+  <span style="color: #FF33A6;">S</span>
+  <span style="color: #FF5733;">t</span>
+  <span style="color: #33FF57;">a</span>
+  <span style="color: #3357FF;">t</span>
+  <span style="color: #FF33A6;">s</span> ✨
+</h3>
 
 <table align="center" style="border-collapse: collapse; margin: 20px auto;">
   <tr>

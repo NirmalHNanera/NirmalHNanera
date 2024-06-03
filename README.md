@@ -26,16 +26,12 @@
         <img src="https://github-stats-alpha.vercel.app/api?username=NirmalHNanera&cc=22272e&tc=37BCF6&ic=fff&bc=0000" width="400" />
       </a>
     </td>
-    <td align="center" style="padding: 10px; border: 3px solid #33FF57; border-radius: 10px;">
-      <a href="https://github.com/NirmalHNanera">
-        <img src="https://github-readme-stats.vercel.app/api?username=nirmalhnanera&show_icons=true&locale=en&theme=dark&card_width=400" width="400" />
-      </a>
-    </td>
+   
   </tr>
   <tr>
-    <td align="center" style="padding: 10px; border: 3px solid #3357FF; border-radius: 10px;">
+     <td align="center" style="padding: 10px; border: 3px solid #33FF57; border-radius: 10px;">
       <a href="https://github.com/NirmalHNanera">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=nirmalhnanera&theme=dark" width="400" />
+        <img src="https://github-readme-stats.vercel.app/api?username=nirmalhnanera&show_icons=true&locale=en&theme=dark&card_width=400" width="400" />
       </a>
     </td>
     <td align="center" style="padding: 10px; border: 3px solid #FF33A6; border-radius: 10px;">

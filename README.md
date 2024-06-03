@@ -4,8 +4,6 @@
     <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=100&lines=Nirmal+Nanera;Versatile+Developer;Full+Stack+Developer+%7C+B.Tech+Student+%7C+Passionate;Data+Structure+%7C+DBMS+%7C+Python+%7C+AI/ML+Enthusiast" alt="Typing SVG" />
 </a>
 </p>
-<br>
-<br>
 <h3 align="center">GitHub Stats:</h3>
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
     <div style="flex-basis: calc(50% - 10px);">
@@ -14,7 +12,7 @@
         </a>
     </div>
 
-<div style="flex-basis: calc(50% - 10px);">
+    <div style="flex-basis: calc(50% - 10px);">
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=nirmalhnanera&show_icons=true&locale=en&theme=dark" alt="nirmalhnanera" style="max-width: 100%;" />
     </div>
 </div>
@@ -24,7 +22,7 @@
         <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nirmalhnanera&theme=dark" alt="nirmalhnanera" style="max-width: 100%;" />
     </div>
 
-<div style="flex-basis: calc(50% - 10px);">
+    <div style="flex-basis: calc(50% - 10px);">
         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nirmalhnanera&show_icons=true&locale=en&layout=compact&theme=dark" alt="nirmalhnanera" style="max-width: 100%;" />
     </div>
 </div>

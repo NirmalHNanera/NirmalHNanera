@@ -27,6 +27,16 @@
     </a>
 </p>
 
+<p align="center">
+    <img src="https://img.shields.io/github/followers/nirmalhnanera?label=GitHub%20Followers&style=for-the-badge" alt="GitHub Followers" />
+    <img src="https://img.shields.io/badge/dynamic/json?color=blue&label=LinkedIn%20Connections&query=%24.data.connections&url=https%3A%2F%2Fapi.linkedin.com%2Fv2%2Fme&style=for-the-badge" alt="LinkedIn Connections" />
+</p>
+
+<h3 align="center">LeetCode Stats:</h3>
+<p align="center">
+    <img src="https://leetcard.jacoblin.cool/nirmal-nanera?theme=dark&font=Karma&ext=activity" alt="nirmal-nanera LeetCode Stats" />
+</p>
+
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
     <a href="https://angular.io" target="_blank" rel="noreferrer">
@@ -91,6 +101,7 @@
     </a>
 </p>
 
+<h3 align="center">GitHub Stats:</h3>
 <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nirmalhnanera&show_icons=true&locale=en&layout=compact&theme=dark" alt="nirmalhnanera" />
 </p>

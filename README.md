@@ -4,26 +4,14 @@
     <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=100&lines=Nirmal+Nanera;Versatile+Developer;Full+Stack+Developer+%7C+B.Tech+Student+%7C+Passionate;Data+Structure+%7C+DBMS+%7C+Python+%7C+AI/ML+Enthusiast" alt="Typing SVG" />
 </a>
 </p>
-<h3 align="center">GitHub Stats:</h3>
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-    <div style="flex-basis: calc(50% - 10px);">
-        <a href="https://github.com/NirmalHNanera">
-            <img src="https://github-stats-alpha.vercel.app/api?username=NirmalHNanera&cc=22272e&tc=37BCF6&ic=fff&bc=0000" style="max-width: 100%;">
-        </a>
-    </div>
-    <div style="flex-basis: calc(50% - 10px);">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=nirmalhnanera&show_icons=true&locale=en&theme=dark" alt="nirmalhnanera" style="max-width: 100%;" />
-    </div>
-</div>
+### GitHub Stats:
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-    <div style="flex-basis: calc(50% - 10px);">
-        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nirmalhnanera&theme=dark" alt="nirmalhnanera" style="max-width: 100%;" />
-    </div>
-    <div style="flex-basis: calc(50% - 10px);">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nirmalhnanera&show_icons=true&locale=en&layout=compact&theme=dark" alt="nirmalhnanera" style="max-width: 100%;" />
-    </div>
-</div>
+[![NirmalHNanera's GitHub Stats](https://github-stats-alpha.vercel.app/api?username=NirmalHNanera&cc=22272e&tc=37BCF6&ic=fff&bc=0000)](https://github.com/NirmalHNanera)
+[![NirmalHNanera's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nirmalhnanera&show_icons=true&locale=en&theme=dark)](https://github.com/NirmalHNanera)
+
+[![NirmalHNanera's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nirmalhnanera&theme=dark)](https://github.com/NirmalHNanera)
+[![NirmalHNanera's Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=nirmalhnanera&show_icons=true&locale=en&layout=compact&theme=dark)](https://github.com/NirmalHNanera)
+
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=nirmalhnanera&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />

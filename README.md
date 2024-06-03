@@ -10,7 +10,7 @@
 [![NirmalHNanera's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nirmalhnanera&show_icons=true&locale=en&theme=dark)](https://github.com/NirmalHNanera)
 
 [![NirmalHNanera's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nirmalhnanera&theme=dark)](https://github.com/NirmalHNanera)
-[![NirmalHNanera's Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=nirmalhnanera&show_icons=true&locale=en&layout=compact&theme=dark&card_width=400_hright=200)](https://github.com/NirmalHNanera)
+[![NirmalHNanera's Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=nirmalhnanera&show_icons=true&locale=en&layout=compact&theme=dark&card_width=400_hright=300)](https://github.com/NirmalHNanera)
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=nirmalhnanera&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />

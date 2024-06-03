@@ -12,6 +12,13 @@
     </a>
 </p>
 
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=nirmalhnanera&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=nirmalhnanera&theme=darkhub&margin-w=15&margin-h=15" alt="nirmalhnanera" />
+    </a>
+</p>
+
 - 🔭 I’m currently working on **Cement Company Management**
 - 🌱 I’m currently learning **ASP .NET**
 - 💬 Ask me about **DBMS, PYTHON, OOP, HTML**

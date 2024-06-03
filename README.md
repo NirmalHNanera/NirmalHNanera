@@ -97,7 +97,13 @@
     </td>
     <td align="center" style="padding: 10px; border: 3px solid #33FF57; border-radius: 10px;">
       <!-- Replace with actual image URL for recent activity and heatmap -->
-      <img src="https://leetcard.jacoblin.cool/nirmal-nanera?theme=dark&font=Karma&ext=activity&ext=heatmap" alt="Recent Activity and Heatmap" width="400" />
+      <img src="https://leetcard.jacoblin.cool/nirmal-nanera?theme=dark&font=Karma&ext=heatmap" alt="Recent Activity Heatmap" width="400" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center" style="padding: 10px; border: 3px solid #FF5733; border-radius: 10px;">
+      <!-- Replace with actual image URL for recent submissions/activity -->
+      <img src="https://leetcard.jacoblin.cool/nirmal-nanera?theme=dark&font=Karma&ext=activity" alt="Recent Activity" width="800" />
     </td>
   </tr>
 </table>

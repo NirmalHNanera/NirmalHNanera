@@ -96,7 +96,11 @@
     <td align="center" style="padding: 10px; border: 3px solid #33FF57; border-radius: 10px;">
       <!-- Replace with actual image URL for heatmap -->
       <img src="https://leetcard.jacoblin.cool/nirmal-nanera?theme=dark&font=Karma&ext=heatmap" alt="Recent Activity Heatmap" width="400" />
-   
+    </td>
+      <td align="center" style="padding: 10px; border: 3px solid #33FF57; border-radius: 10px;">
+      <!-- Replace with actual image URL for circular graph -->
+      <img src="https://leetcode-circular-graph.nirmalhnanera27.vercel.app/api?username=nirmalhnanera&theme=dark&font=Karma" alt="Easy Medium Hard Distribution" width="400" />
+    </td>
   </tr>
   
 </table>

@@ -78,10 +78,27 @@
     
 </p>
 
-<h3 align="center">LeetCode Stats:</h3>
-<p align="center">
-    <img src="https://leetcard.jacoblin.cool/nirmal-nanera?theme=dark&font=Karma&ext=activity" alt="nirmal-nanera LeetCode Stats" />
-</p>
+<h3 align="center" style="color: #37BCF6; font-family: Georgia, 'Times New Roman', Times, serif;">
+  ✨ <span style="color: #FF5733;">L</span>
+  <span style="color: #33FF57;">e</span>
+  <span style="color: #3357FF;">e</span>
+  <span style="color: #FF33A6;">t</span>
+  <span style="color: #FF5733;">C</span>
+  <span style="color: #33FF57;">o</span>
+  <span style="color: #3357FF;">d</span>
+  <span style="color: #FF33A6;">e</span> ✨
+</h3>
+
+<table align="center" style="border-collapse: collapse; margin: 20px auto;">
+  <tr>
+    <td align="center" style="padding: 10px; border: 3px solid #FF5733; border-radius: 10px;">
+      <img src="https://leetcard.jacoblin.cool/nirmal-nanera?theme=dark&font=Karma&ext=activity" alt="nirmal-nanera LeetCode Stats" width="400" />
+    </td>
+    <td align="center" style="padding: 10px; border: 3px solid #33FF57; border-radius: 10px;">
+      <img src="https://leetcard.jacoblin.cool/nirmal-nanera?theme=dark&font=Karma&ext=heatmap" alt="nirmal-nanera Recent Activity" width="400" />
+    </td>
+  </tr>
+</table>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">

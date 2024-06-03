@@ -44,9 +44,15 @@ Hello! I am Nanera Nirmal, a Computer Science Student.<br><br>Learning ASP .Net,
 
 # 📊 Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=NirmalHNanera&theme=tokyonight&hide_border=false)
-![](https://leetcard.jacoblin.cool/NirmalHNanera?animation=true)
+![](https://leetcard.jacoblin.cool/Nirmal-Nanera?animation=true)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NirmalHNanera&theme=dracula) 
-<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NirmalHNanera&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
+![](https://github-readme-stats.vercel.app/api?username=NirmalHNanera&show_icons=true&theme=tokyonight&count_private=true)
+
+![borderseparator](https://github.com/Ctoic/Ctoic/assets/90936436/b0885c98-6e49-4365-93f1-fd2fcaed194c)
+
+# 🚀 Total Repositories and Followers:
+![GitHub followers](https://img.shields.io/github/followers/NirmalHNanera?style=social)
+![GitHub repo size](https://img.shields.io/github/repo-size/NirmalHNanera)
 
 ![borderseparator](https://github.com/Ctoic/Ctoic/assets/90936436/b0885c98-6e49-4365-93f1-fd2fcaed194c)
 

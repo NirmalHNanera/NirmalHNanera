@@ -5,7 +5,12 @@
 </a>
 </p>
 <br>
-<br> 
+<br>
+<a href="https://github.com/NirmalHNanera">
+    <img src="https://github-stats-alpha.vercel.app/api?username=NirmalHNanera&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
+</a>
+    </p>
+<br>
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=nirmalhnanera&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
     <a href="https://github.com/ryo-ma/github-profile-trophy">

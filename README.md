@@ -1,18 +1,19 @@
-<h1 align="center">Hi 👋, I'm Nirmal Nanera</h1>
-<a align="center" href="https://github.com/NirmalHNanera">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Nirmal+Nanera;Versatile Developer;+Full Stack+Developer+%7C+B.Tech+Student+%7C+Passionate;Data+Structure+%7C+DBMS+%7C+Python%7C+AI/ML Enthusiast" alt="Typing SVG" />
-</a>
+<h1 align="center">Hi there! 👋, I'm Nirmal Nanera</h1>
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=nirmalhnanera&label=Profile%20views&color=0e75b6&style=flat" alt="nirmalhnanera" />
+    <a href="https://github.com/NirmalHNanera">
+        <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Nirmal+Nanera;Versatile+Developer;Full+Stack+Developer+%7C+B.Tech+Student+%7C+Passionate;Data+Structure+%7C+DBMS+%7C+Python+%7C+AI/ML+Enthusiast" alt="Typing SVG" />
+    </a>
+</p>
+
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=nirmalhnanera&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
     <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img src="https://github-profile-trophy.vercel.app/?username=nirmalhnanera&theme=darkhub&margin-w=15&margin-h=15" alt="nirmalhnanera" />
     </a>
 </p>
 
 - 🔭 I’m currently working on **Cement Company Management**
-
 - 🌱 I’m currently learning **ASP .NET**
-
 - 💬 Ask me about **DBMS, PYTHON, OOP, HTML**
 
 <h3 align="center">Connect with me:</h3>

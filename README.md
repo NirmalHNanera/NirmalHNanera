@@ -6,11 +6,32 @@
 </p>
 ### GitHub Stats:
 
-[![NirmalHNanera's GitHub Stats](https://github-stats-alpha.vercel.app/api?username=NirmalHNanera&cc=22272e&tc=37BCF6&ic=fff&bc=0000card_width=100)](https://github.com/NirmalHNanera)
-[![NirmalHNanera's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nirmalhnanera&show_icons=true&locale=en&theme=dark&card_width=100)](https://github.com/NirmalHNanera)
-
-[![NirmalHNanera's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nirmalhnanera&theme=dark)](https://github.com/NirmalHNanera)
-[![NirmalHNanera's Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=nirmalhnanera&show_icons=true&locale=en&layout=compact&theme=dark&card_width=400)](https://github.com/NirmalHNanera)
+<table align="center">
+  <tr>
+    <td align="center" style="padding: 10px;">
+      <a href="https://github.com/NirmalHNanera">
+        <img src="https://github-stats-alpha.vercel.app/api?username=NirmalHNanera&cc=22272e&tc=37BCF6&ic=fff&bc=0000" width="400" />
+      </a>
+    </td>
+    <td align="center" style="padding: 10px;">
+      <a href="https://github.com/NirmalHNanera">
+        <img src="https://github-readme-stats.vercel.app/api?username=nirmalhnanera&show_icons=true&locale=en&theme=dark&card_width=400" width="400" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="padding: 10px;">
+      <a href="https://github.com/NirmalHNanera">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=nirmalhnanera&theme=dark" width="400" />
+      </a>
+    </td>
+    <td align="center" style="padding: 10px;">
+      <a href="https://github.com/NirmalHNanera">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nirmalhnanera&show_icons=true&locale=en&layout=compact&theme=dark&card_width=400" width="400" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=nirmalhnanera&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />

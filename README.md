@@ -4,35 +4,35 @@
     <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=100&lines=Nirmal+Nanera;Versatile+Developer;Full+Stack+Developer+%7C+B.Tech+Student+%7C+Passionate;Data+Structure+%7C+DBMS+%7C+Python+%7C+AI/ML+Enthusiast" alt="Typing SVG" />
 </a>
 </p>
-<h3 align="center" style="color: red; font-family: Georgia, 'Times New Roman', Times, serif;">GitHub Stats:</h3>
+<h3 align="center" style="color: #37BCF6; font-family: Georgia, 'Times New Roman', Times, serif;">GitHub Stats:</h3>
 
-
-<table align="center">
+<table align="center" style="border-collapse: collapse; margin: 20px auto;">
   <tr>
-    <td align="center" style="padding: 10px;">
+    <td align="center" style="padding: 10px; border: 3px solid #FF5733; border-radius: 10px;">
       <a href="https://github.com/NirmalHNanera">
         <img src="https://github-stats-alpha.vercel.app/api?username=NirmalHNanera&cc=22272e&tc=37BCF6&ic=fff&bc=0000" width="400" />
       </a>
     </td>
-    <td align="center" style="padding: 10px;">
+    <td align="center" style="padding: 10px; border: 3px solid #33FF57; border-radius: 10px;">
       <a href="https://github.com/NirmalHNanera">
         <img src="https://github-readme-stats.vercel.app/api?username=nirmalhnanera&show_icons=true&locale=en&theme=dark&card_width=400" width="400" />
       </a>
     </td>
   </tr>
   <tr>
-    <td align="center" style="padding: 10px;">
+    <td align="center" style="padding: 10px; border: 3px solid #3357FF; border-radius: 10px;">
       <a href="https://github.com/NirmalHNanera">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=nirmalhnanera&theme=dark" width="400" />
       </a>
     </td>
-    <td align="center" style="padding: 10px;">
+    <td align="center" style="padding: 10px; border: 3px solid #FF33A6; border-radius: 10px;">
       <a href="https://github.com/NirmalHNanera">
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nirmalhnanera&show_icons=true&locale=en&layout=compact&theme=dark&card_width=400" width="400" />
       </a>
     </td>
   </tr>
 </table>
+
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=nirmalhnanera&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />

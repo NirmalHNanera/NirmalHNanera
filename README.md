@@ -6,8 +6,8 @@
 </p>
 ### GitHub Stats:
 
-[![NirmalHNanera's GitHub Stats](https://github-stats-alpha.vercel.app/api?username=NirmalHNanera&cc=22272e&tc=37BCF6&ic=fff&bc=0000)](https://github.com/NirmalHNanera)
-[![NirmalHNanera's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nirmalhnanera&show_icons=true&locale=en&theme=dark)](https://github.com/NirmalHNanera)
+[![NirmalHNanera's GitHub Stats](https://github-stats-alpha.vercel.app/api?username=NirmalHNanera&cc=22272e&tc=37BCF6&ic=fff&bc=0000card_width=300)](https://github.com/NirmalHNanera)
+[![NirmalHNanera's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nirmalhnanera&show_icons=true&locale=en&theme=darkcard_width=300)](https://github.com/NirmalHNanera)
 
 [![NirmalHNanera's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nirmalhnanera&theme=dark)](https://github.com/NirmalHNanera)
 [![NirmalHNanera's Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=nirmalhnanera&show_icons=true&locale=en&layout=compact&theme=dark&card_width=400)](https://github.com/NirmalHNanera)

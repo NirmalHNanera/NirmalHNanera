@@ -94,8 +94,8 @@
   
   <tr>
     <td align="center" style="padding: 10px; border: 3px solid #33FF57; border-radius: 10px;">
-      <!-- Replace with actual image URL for recent activity -->
-      <img src="https://leetcard.jacoblin.cool/nirmal-nanera?theme=dark&font=Karma&ext=activity" alt="Recent Activity" width="400" />
+      <!-- Recent activity and heatmap -->
+      <img src="https://leetcard.jacoblin.cool/nirmal-nanera?theme=dark&font=Karma&ext=activity,heatmap" alt="Recent Activity and Heatmap" width="400" />
     </td>
       
   </tr>

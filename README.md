@@ -23,8 +23,9 @@
   <tr>
     <td align="center" style="padding: 10px; border: 3px solid #FF5733; border-radius: 10px;">
       <a href="https://github.com/NirmalHNanera">
-        <img src="https://github-stats-alpha.vercel.app/api?username=NirmalHNanera&cc=22272e&tc=37BCF6&ic=fff&bc=0000" width="400" />
+        <img src="https://github-stats-alpha.vercel.app/api?username=NirmalHNanera&cc=22272e&tc=37BCF6&ic=fff&bc=0000" />
       </a>
+<!--         width="400"  -->
     </td>
     <td align="center" style="padding: 10px; border: 3px solid #33FF57; border-radius: 10px;">
       <a href="https://github.com/NirmalHNanera">

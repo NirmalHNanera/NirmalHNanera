@@ -91,19 +91,9 @@
 
 <table align="center" style="border-collapse: collapse; margin: 20px auto;">
   <tr>
-    <td rowspan="2" align="center" style="padding: 10px; border: 3px solid #FF5733; border-radius: 10px;">
-      <!-- LeetCode Stats -->
-      <img src="https://leetcard.jacoblin.cool/nirmal-nanera?theme=dark&font=Karma" alt="nirmal-nanera LeetCode Stats" width="400" />
-    </td>
-    <td align="center" style="padding: 10px; border: 3px solid #33FF57; border-radius: 10px;">
-      <!-- Circular graph for problem distribution -->
-      <img src="https://leetcard.jacoblin.cool/nirmal-nanera?theme=dark&font=Karma&ext=graph" alt="Easy Medium Hard Distribution" width="400" />
-    </td>
-  </tr>
-  <tr>
     <td align="center" style="padding: 10px; border: 3px solid #33FF57; border-radius: 10px;">
       <!-- Recent activity and heatmap -->
-      <img src="https://leetcard.jacoblin.cool/nirmal-nanera?theme=dark&font=Karma&ext=activity,heatmap" alt="Recent Activity and Heatmap" width="400" />
+      <img src="https://leetcard.jacoblin.cool/nirmal-nanera?theme=dark&font=Karma&ext=activity" alt="Recent Activity" width="400" />
     </td>
   </tr>
 </table>

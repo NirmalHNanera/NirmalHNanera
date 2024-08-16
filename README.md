@@ -59,7 +59,7 @@
 
 - 🔭 I’m currently working on **Cement Company Management**
 - 🌱 I’m currently learning **ASP .NET**
-- 💬 Ask me about **DBMS, PYTHON, OOP, HTML**
+- 💬 Ask me about **DBMS, PYTHON, OOP, HTML, CSS, ASP.NET CORE, JAVA**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
